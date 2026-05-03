@@ -1,0 +1,9 @@
+pwd
+ls
+mkdir
+cd
+touch
+clear
+commit 
+git clone
+git push
