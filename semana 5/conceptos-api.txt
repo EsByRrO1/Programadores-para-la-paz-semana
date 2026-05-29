@@ -1,0 +1,6 @@
+La ruta `/reporte` recibe solicitudes de tipo POST enviadas por los usuarios. Su función es obtener el mensaje que llega en el cuerpo
+ de la petición (`req.body.mensaje`) y devolver una respuesta en formato JSON confirmando que el reporte fue recibido correctamente.
+
+En una aplicación comunitaria, esta ruta podría servir para que los ciudadanos envíen reportes sobre problemas o situaciones de interés, 
+como daños en las vías, fallas en servicios públicos, problemas de seguridad o alertas ambientales. De esta manera, la información se 
+recopila de forma organizada y puede ser gestionada por los responsables de la comunidad o las autoridades correspondientes.
