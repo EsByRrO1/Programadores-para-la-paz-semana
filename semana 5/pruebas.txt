@@ -1,0 +1,47 @@
+Use el navegador para ejecutar las pruebas.
+
+Requisito previo: tener el servidor corriendo con "node server.js" en la carpeta semana 5.
+
+--- Pruebas GET (barra de direcciones) ---
+
+1. http://localhost:3000/
+   Resultado esperado: Servidor activo
+
+2. http://localhost:3000/saludo
+   Resultado esperado: Hola comunidad
+
+3. http://localhost:3000/mensaje/Juan
+   Resultado esperado: Hola Juan
+
+--- Prueba POST /reporte (consola del navegador) ---
+
+La barra de direcciones solo envía GET. Para probar POST, abri cualquier página
+en el navegador (por ejemplo http://localhost:3000/), presione F12, fui a la pestaña
+Consola y pege este código:
+
+fetch('http://localhost:3000/reporte', {
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({ mensaje: 'Prueba desde el taller' })
+})
+  .then(res => res.json())
+  .then(data => console.log(data));
+
+Resultado esperado en la consola:
+{
+  "estado": "Reporte recibido",
+  "mensaje": "Prueba desde el taller"
+}
+
+--- Resultado de la prueba realizada ---
+
+Petición: POST http://localhost:3000/reporte
+Body enviado: { "mensaje": "Prueba desde el taller" }
+
+Respuesta obtenida:
+{
+  "estado": "Reporte recibido",
+  "mensaje": "Prueba desde el taller"
+}
+
+Estado: PRUEBA EXITOSA
