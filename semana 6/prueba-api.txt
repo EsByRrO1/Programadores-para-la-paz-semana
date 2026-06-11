@@ -3,3 +3,95 @@
   "nombre": "Maria",
   "mensaje": "Hola comunidad"
 }
+
+```json
+{
+  "estado": "Datos recibidos",
+  "nombre": "Carlos",
+  "mensaje": "Solicito revisión del alumbrado público en mi sector."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Laura",
+  "mensaje": "Gracias por atender los reportes de la comunidad."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Andrés",
+  "mensaje": "Hay una fuga de agua cerca del parque principal."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Sofía",
+  "mensaje": "Los juegos infantiles necesitan mantenimiento."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Juan",
+  "mensaje": "Se requiere poda de árboles en la avenida principal."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Valentina",
+  "mensaje": "El semáforo de la calle 10 no está funcionando."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Miguel",
+  "mensaje": "Hay acumulación de basura en un lote abandonado."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Camila",
+  "mensaje": "Solicito más presencia de vigilancia en el barrio."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Daniel",
+  "mensaje": "La cancha comunitaria tiene varias luminarias dañadas."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Isabella",
+  "mensaje": "Excelente iniciativa para mejorar la comunicación con la comunidad."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Felipe",
+  "mensaje": "Se presenta ruido excesivo durante las noches los fines de semana."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Natalia",
+  "mensaje": "Una alcantarilla está obstruida y genera inundaciones."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Sebastián",
+  "mensaje": "Quiero informar sobre un hueco peligroso en la vía."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Paula",
+  "mensaje": "La parada de autobús necesita reparación urgente."
+}
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "David",
+  "mensaje": "Hola, me gustaría conocer el estado de mi reporte anterior."
+}
+```
