@@ -2,3 +2,78 @@
   "tipo": "Iluminación pública",
   "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
 }
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Se reporta un hueco de gran tamaño en la vía principal del barrio."
+}
+
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de basura en un lote abandonado genera malos olores."
+}
+
+{
+  "tipo": "Seguridad",
+  "descripcion": "Los vecinos solicitan mayor vigilancia debido a frecuentes robos en la zona."
+}
+
+{
+  "tipo": "Movilidad",
+  "descripcion": "Un semáforo permanece fuera de servicio en una intersección concurrida."
+}
+
+{
+  "tipo": "Servicios Públicos",
+  "descripcion": "Se presenta una fuga de agua que afecta varias viviendas."
+}
+
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "Varias lámparas del parque central no funcionan durante la noche."
+}
+
+{
+  "tipo": "Espacio Público",
+  "descripcion": "Los juegos infantiles del parque presentan daños y requieren mantenimiento."
+}
+
+{
+  "tipo": "Salud",
+  "descripcion": "Hay presencia de aguas estancadas que favorecen la proliferación de mosquitos."
+}
+
+{
+  "tipo": "Convivencia",
+  "descripcion": "Se reporta ruido excesivo durante las noches en una zona residencial."
+}
+
+{
+  "tipo": "Educación",
+  "descripcion": "La comunidad solicita reparación de los baños de una institución educativa."
+}
+
+{
+  "tipo": "Deporte",
+  "descripcion": "La cancha comunitaria tiene el cerramiento deteriorado y representa un riesgo."
+}
+
+{
+  "tipo": "Transporte",
+  "descripcion": "Una parada de autobús se encuentra en mal estado y sin techo."
+}
+
+{
+  "tipo": "Alcantarillado",
+  "descripcion": "Una alcantarilla está obstruida y provoca inundaciones cuando llueve."
+}
+
+{
+  "tipo": "Señalización",
+  "descripcion": "Falta señalización de tránsito en una zona escolar de alto flujo peatonal."
+}
+
+{
+  "tipo": "Zonas Verdes",
+  "descripcion": "Los árboles de un parque requieren poda por riesgo de caída de ramas."
+}
