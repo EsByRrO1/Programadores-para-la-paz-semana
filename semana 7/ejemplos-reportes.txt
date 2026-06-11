@@ -1,0 +1,61 @@
+Ejemplo de contenido para ejemplos-reportes.txt:
+
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+
+Ejemplo 3:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de señalización en una vía escolar"
+}
+
+Ejemplo 4:
+{
+  "tipo": "Movilidad",
+  "descripcion": "Semáforo fuera de servicio en una intersección principal"
+}
+
+Ejemplo 5:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Hueco de gran tamaño en una calle del barrio"
+}
+
+Ejemplo 6:
+{
+  "tipo": "Servicios Públicos",
+  "descripcion": "Fuga de agua en una tubería pública"
+}
+
+Ejemplo 7:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Tala no autorizada de árboles en un parque"
+}
+
+Ejemplo 8:
+{
+  "tipo": "Espacio Público",
+  "descripcion": "Parque infantil con juegos dañados"
+}
+
+Ejemplo 9:
+{
+  "tipo": "Salud",
+  "descripcion": "Presencia de aguas estancadas que favorecen la proliferación de mosquitos"
+}
+
+Ejemplo 10:
+{
+  "tipo": "Convivencia",
+  "descripcion": "Ruido excesivo durante la noche en zona residencial"
+}

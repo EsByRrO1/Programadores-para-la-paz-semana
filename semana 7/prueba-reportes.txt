@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  },
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  },
+  {
+    "id": 3,
+    "tipo": "Seguridad",
+    "descripcion": "Falta de señalización en una vía escolar"
+  },
+  {
+    "id": 4,
+    "tipo": "Movilidad",
+    "descripcion": "Semáforo fuera de servicio en una intersección principal"
+  },
+  {
+    "id": 5,
+    "tipo": "Servicios Públicos",
+    "descripcion": "Fuga de agua en una tubería pública"
+  }
+]
