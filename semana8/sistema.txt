@@ -1,0 +1,14 @@
+Comandos utilizados:
+
+* uname -a: Muestra información detallada del sistema operativo, incluyendo el kernel, arquitectura y nombre del equipo.
+* whoami: Muestra el nombre del usuario que está ejecutando la sesión actual.
+* git status: Muestra el estado de los archivos del repositorio y los cambios pendientes.
+* git add .: Agrega todos los archivos modificados al área de preparación para el próximo commit.
+* git commit -m "Actividad semana 8": Guarda los cambios realizados en el repositorio con un mensaje descriptivo.
+* git push: Envía los cambios confirmados al repositorio remoto.
+
+Importancia de conocer la información del sistema:
+
+Conocer la información del sistema es fundamental para administrar un servidor de manera eficiente. Permite identificar 
+el sistema operativo, verificar el usuario activo, diagnosticar problemas, comprobar compatibilidad de software, gestionar 
+permisos y mantener un mejor control de la seguridad y el funcionamiento general del servidor.
