@@ -1,7 +1,0 @@
-Seguridad:
-
-* No exponer datos personales de los usuarios en perfiles o publicaciones públicas.
-* Proteger las credenciales mediante contraseñas seguras y autenticación de dos factores.
-* Utilizar conexiones seguras (HTTPS) para proteger la información transmitida.
-* Registrar y monitorear los accesos para detectar actividades sospechosas.
-* Limitar el acceso a información sensible según los roles y permisos de cada usuario.
