@@ -1,0 +1,11 @@
+Pregunta 1
+ Resouesta: B/  Un sistema que ejecuta aplicaciones y responde solicitudes de los usuarios
+
+Pregunta 2
+ Resouesta: B/ Que el servidor está esperando solicitudes en una dirección específica
+ 
+Pregunta 3
+ Resouesta: B/ Monitorear ejecución y registrar errores
+
+Pregunta 4
+ Resouesta: A/ Archivos que registran la actividad y eventos del sistema
