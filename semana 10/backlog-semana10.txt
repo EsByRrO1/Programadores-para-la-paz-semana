@@ -1,0 +1,15 @@
+Ejemplos:
+
+1. Como ciudadano quiero registrar una incidencia con fotos y ubicación para dejar evidencia
+ de un problema en la comunidad.
+
+2. Como coordinador quiero recibir una notificación cuando se cree un nuevo reporte para atenderlo 
+oportunamente.
+
+3. Como miembro del equipo quiero consultar los reportes registrados para hacer seguimiento a cada 
+caso.
+
+4. Como ciudadano quiero conocer el estado de mi reporte para saber si ya fue revisado o solucionado.
+
+5. Como administrador quiero generar un historial de incidencias para identificar los problemas más 
+frecuentes de la comunidad.
